@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ceioax'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AFDA2517F3094E68B454066F1C89697D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D7AEB468ED2B4427BEAE3C5A25BD3DA4 }}
           package: .
